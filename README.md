@@ -36,7 +36,7 @@ I’m a full-stack web developer from Argentina who lives in Vancouver, Canada. 
                     </p>
                     
 <div align="center" dir="auto">
-JavaScript ||HTML5 || React || CSS3 || Sass || Bootstrap || Redux || NodeJS || Express || PostgreSQL || Heroku || Adobe Illustrator || Adobe Xd || Figma || Netlify ||
+JavaScript ||HTML5 || React || CSS3 || Sass || Bootstrap || Redux || NodeJS || Express || PostgreSQL || Heroku || Adobe Xd || Figma || Netlify ||
   
 </div>                    
           
