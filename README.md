@@ -39,5 +39,7 @@ I’m a full-stack developer who enjoys delivering solutions using HTML, CSS, Ja
 <div align="center" dir="auto">
 JavaScript ||HTML5 || React || CSS3 || Sass || Bootstrap || Redux || NodeJS || Express || PostgreSQL || Heroku || Adobe Xd || Figma || Netlify ||
   
-</div>                    
+</div> 
+
+<h2 dir="auto">Badges</h2><a href="https://github.com/Buenopamela" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buenopamela&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
           
