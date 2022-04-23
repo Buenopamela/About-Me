@@ -40,7 +40,9 @@ I’m a full-stack developer who enjoys delivering solutions using HTML, CSS, Ja
   
 </div>  
 
-Badges<b>My GitHub Stats</b><a
+<h2 dir="auto"><a id="user-content-languages-libraries-and-tools" class="anchor" aria-hidden="true" href="#languages-libraries-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Badges<b>My GitHub Stats</b></h2>
+
+ <a
                       href="http://www.github.com/Buenopamela"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Buenopamela&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
