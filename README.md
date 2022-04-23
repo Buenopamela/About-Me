@@ -40,4 +40,8 @@ I’m a full-stack developer who enjoys delivering solutions using HTML, CSS, Ja
   
 </div>  
 
+Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Buenopamela"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Buenopamela&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
