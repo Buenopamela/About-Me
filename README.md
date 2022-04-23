@@ -11,7 +11,7 @@
 </div>
 </div>
 <div align="left" dir="auto">
-I’m a full-stack developer who enjoys delivering solutions using HTML, CSS, JavaScript, Node.js, Express, React, and SQL. I am comfortable working in the front end, transforming wireframes into beautiful functional products. I am focused on being a valuable team member, offering thoughtful solutions, and continuously growing my skill
+I’m a full-stack developer who enjoys delivering solutions using HTML, CSS, JavaScript, Node.js, Express, React, and SQL. I'm comfortable working in the front end, transforming wireframes into beautiful functional products. I am focused on being a valuable team member, offering thoughtful solutions, and continuously growing my skills.
 <br> 
 </div>
 </div>
@@ -36,8 +36,7 @@ I’m a full-stack developer who enjoys delivering solutions using HTML, CSS, Ja
 
 
 
-<div align="center" dir="auto">
-JavaScript ||HTML5 || React || CSS3 || Sass || Bootstrap || Redux || NodeJS || Express || PostgreSQL || Heroku || Adobe Xd || Figma || Netlify ||
+<div align="center" dir="auto">JavaScript ||HTML5 || React || CSS3 || Sass || Bootstrap || Redux || NodeJS || Express || PostgreSQL || Heroku || Adobe Xd || Figma || Netlify ||
   
 </div>  
 
