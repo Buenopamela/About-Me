@@ -12,7 +12,7 @@
 </div>
 <div align="left" dir="auto">
 I’m a full-stack developer who enjoys delivering solutions using HTML, CSS, JavaScript, Node.js, Express, React, and SQL. I am comfortable working in the front end, transforming wireframes into beautiful functional products. I am focused on being a valuable team member, offering thoughtful solutions, and continuously growing my skill
-<br>
+<br> 
 </div>
 </div>
 
