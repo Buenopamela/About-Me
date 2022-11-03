@@ -35,7 +35,6 @@ I’m a full-stack developer who enjoys delivering solutions using HTML, CSS, Ja
 
 
 
-
 <div align="left" dir="auto">JavaScript ||HTML5 || React || CSS3 || Sass || Bootstrap || Redux || NodeJS || Express || PostgreSQL || Heroku || Adobe Xd || Figma || Netlify ||
   
 </div>  
